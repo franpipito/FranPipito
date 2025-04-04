@@ -1,4 +1,4 @@
-## Buenas! Soy Ariel Mirra ![Hi GIF](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+## Buenas! Soy Ariel Mirra <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
 
 ⚡ Actualmente trabajo como Senior Software Engineer SMTS en Salesforce, mi foco está en crecer mi conocimiento y performar a mi mejor nivel, todos los días.
 
