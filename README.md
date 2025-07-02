@@ -15,15 +15,15 @@
 ### 🛠️ Tecnologías y Herramientas que más uso
 <div align="center">
   <!-- C#-->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="Scala" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Scala" width="40" height="40"/>
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Kotlin" width="40" height="40"/>
   <!-- MySql -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Kotlin" width="40" height="40"/>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GitHub" width="40" height="40"/>
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <!-- HTML5 -->
