@@ -26,8 +26,8 @@ Me apasiona resolver problemas con lógica clara y escribir código limpio.
 
 | Proyecto                                     | Tech Stack                   | Descripción                                                                 |
 |---------------------------------------------|------------------------------|-----------------------------------------------------------------------------|
-| 🎯 Proyecto Final: Gestión de Eventos        | C# · ArrayList · Recursión   | App de consola para gestionar eventos, empleados y servicios con validaciones |
-| 🧩 Parcial: Agencia de Turismo               | C# · Algoritmos · Validaciones| Simula compra de boletos, control de cupos y recaudación con función recursiva |
+| 🎯 MVP: Gestión de Eventos        | C# · .NET · ArrayList · Recursión   | App de consola para gestionar eventos, empleados y servicios con validaciones |
+| 🧩 Agencia de Turismo               | C# · Algoritmos · Validaciones| Simula compra de boletos, control de cupos y recaudación con función recursiva |
 
 🔍 Explorá todos mis proyectos 👉 [GitHub](https://github.com/franpipito?tab=repositories)
 
@@ -37,7 +37,7 @@ Me apasiona resolver problemas con lógica clara y escribir código limpio.
 
 - APIs REST y diseño de endpoints
 - Principios SOLID y estructuras limpias
-- Flask (Python) y .NET para backend web
+- Django (Python) y .NET para backend web
 - Control de versiones avanzado con Git
 
 ---
